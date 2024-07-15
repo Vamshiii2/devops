@@ -1,3 +1,7 @@
 print("First line")
 print("Second line")
+<<<<<<< HEAD
 print("fourth line")
+=======
+print("Third line")
+>>>>>>> 66ea43b3a53efb27e81ce3839189699760432e80
